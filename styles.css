@@ -1,0 +1,49 @@
+*{
+    margin: 0%;
+    padding: auto;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
+
+header{
+    padding: 2.5em;
+    background-color: darkblue;
+    text-align: center;
+    color: azure;
+}
+
+.contactos *{
+    width: 50px;
+    height: auto;
+}
+
+.sumario{
+    padding-top: 1em;
+    font-weight: 666;
+    background-color: rgb(21, 207, 21);
+    padding-bottom: 1em;
+}
+
+
+.descrito{
+    background-color: antiquewhite;
+    font-style: italic;
+    font-size: large;
+    padding: 1em;
+}
+
+#habilidades{
+    color: yellow;
+    padding-bottom: 0.5em;
+}
+
+#trabajos{
+    color: orangered;
+}
+
+#deseos{
+    padding-top: 0.5em;
+    color: red;
+}
+
+footer{
+    background-color: beige;
+}
